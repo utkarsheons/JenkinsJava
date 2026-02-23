@@ -41,6 +41,8 @@ public class Palindrome {
             }
         }
 
+        System.out.println("::: OYE :::");
+
         if(counter==1){
 //            assertTrue("madam should be a palindrome", counter == 1);
             System.out.println("\n" + str + " is a palindrome");
