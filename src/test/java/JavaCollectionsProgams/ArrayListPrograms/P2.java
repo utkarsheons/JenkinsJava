@@ -9,7 +9,7 @@ public class P2 {
     @Test
     public void uniqueNamesList(){
         System.out.println(" ");
-        System.out.println("###################### START ######################");
+        System.out.println("###################### START P2 ######################");
 
         List<String> names = new ArrayList<>();
         names.add("Erin");

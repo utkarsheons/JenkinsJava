@@ -9,7 +9,7 @@ public class P3 {
     @Test
     public void minMax(){
         System.out.println(" ");
-        System.out.println("###################### START ######################");
+        System.out.println("###################### START P3 ######################");
 
         List<Integer> numbersList = new ArrayList<>();
         numbersList.add(15);
