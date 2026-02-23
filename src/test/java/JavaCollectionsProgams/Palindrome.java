@@ -6,7 +6,8 @@ public class Palindrome {
 
     @Test
     public void testPalindrome(){
-        // ...existing code...
+        System.out.println("###################### START ######################");
+
         String str = "madam";
 
         char[] charArr = new char[str.length()];

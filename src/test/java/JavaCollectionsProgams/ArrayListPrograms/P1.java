@@ -9,6 +9,8 @@ public class P1 {
 
     @Test
     public void usageOfArrayList(){
+        System.out.println("###################### START ######################");
+
         List<String> namesList = new ArrayList<>();
         namesList.add("Sudheer");
         namesList.add("Sampat");

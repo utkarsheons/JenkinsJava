@@ -8,6 +8,8 @@ public class P2 {
 
     @Test
     public void uniqueNamesList(){
+        System.out.println("###################### START ######################");
+
         List<String> names = new ArrayList<>();
         names.add("Erin");
         names.add("Andrew");
