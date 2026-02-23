@@ -7,7 +7,7 @@ import java.util.*;
 public class P2 {
 
     @Test
-    public void uniqueNamesList(String[] args){
+    public void uniqueNamesList(){
         List<String> names = new ArrayList<>();
         names.add("Erin");
         names.add("Andrew");
