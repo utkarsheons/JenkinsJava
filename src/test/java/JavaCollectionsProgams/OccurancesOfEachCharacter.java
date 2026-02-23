@@ -9,7 +9,7 @@ public class OccurancesOfEachCharacter {
     @Test
     public void testOccurancesInAString(){
         System.out.println(" ");
-        System.out.println("###################### START ######################");
+        System.out.println("###################### START Occurance ######################");
 
         String strMain= "panama canal";
         System.out.println("String is: " + strMain);

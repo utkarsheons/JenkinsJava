@@ -7,7 +7,7 @@ public class Palindrome {
     @Test
     public void testPalindrome(){
         System.out.println(" ");
-        System.out.println("###################### START ######################");
+        System.out.println("###################### START Palindrome ######################");
 
         String str = "madam";
 

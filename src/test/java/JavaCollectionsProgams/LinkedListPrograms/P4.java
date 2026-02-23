@@ -9,7 +9,7 @@ public class P4 {
     @Test
     public void numLinkedList(){
         System.out.println(" ");
-        System.out.println("###################### START P4######################");
+        System.out.println("###################### START P4 ######################");
 
         LinkedList<Integer> numList = new LinkedList<>();
         numList.add(5);
