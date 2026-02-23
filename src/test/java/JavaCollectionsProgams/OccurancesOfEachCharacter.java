@@ -1,4 +1,4 @@
-package JavaProgams;
+package JavaCollectionsProgams;
 
 import org.junit.Test;
 
