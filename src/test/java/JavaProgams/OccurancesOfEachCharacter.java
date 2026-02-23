@@ -1,10 +1,13 @@
 package JavaProgams;
 
+import org.junit.Test;
+
 import java.util.*;
 
 public class OccurancesOfEachCharacter {
 
-    public static void main(String[] args){
+    @Test
+    public void testOccurancesInAString(){
 
         String strMain= "panama canal";
         System.out.println("String is: " + strMain);
